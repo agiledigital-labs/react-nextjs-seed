@@ -1,0 +1,8 @@
+$color: #2ecc71;
+.container {
+  background-color: lightblue;
+  img {
+    width: 50px;
+    background-color: $color;
+  }
+}

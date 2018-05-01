@@ -1,0 +1,13 @@
+node_modules/
+.next/
+*.log
+coverage/
+package-lock.json
+.vscode
+dist/
+production-server/
+junit.xml
+.idea
+*.iml
+.directory
+src/.next
